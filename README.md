@@ -1,5 +1,7 @@
 # Flow
-matches students with schools
+created in 2 days about 15 hours of work. 
+
+creates simulation of matching students with schools
 
 Input the amount of students and the amount of schools (max 100 for each). 
 
