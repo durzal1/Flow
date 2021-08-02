@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\flow.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\flow.dir/objects.a @CMakeFiles\flow.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -std=c++11 -lmingw32 -g -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles\flow.dir/objects.a -Wl,--no-whole-archive -o flow.exe -Wl,--out-implib,libflow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\flow.dir\linklibs.rsp

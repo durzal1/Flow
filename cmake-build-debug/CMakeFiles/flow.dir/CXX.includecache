@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/Edge.h
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/draw.h
+SDL2/SDL.h
+-
+bits/stdc++.h
+-
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/fordFulkerson.h
+bits/stdc++.h
+-
+Edge.h
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/Edge.h
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/main.cpp
+bits/stdc++.h
+-
+ctime
+-
+fordFulkerson.h
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/fordFulkerson.h
+draw.h
+C:/Users/zacky/Desktop/Coding/c++/graph algs/flow/draw.h
+
