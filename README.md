@@ -18,3 +18,5 @@ Now it will look to see if it can switch some connections to get the max total h
 Here I define max total happiness as the best rankings that can possibly be achieved without creating illegal connections or decreasing the maximum student-school matches.
 
 After it gets all this data it will use SDL to draw it visually on the screen.
+
+# Everything works except 10 students and 10 schools. i have no idea why but it results in 2 connections. 
